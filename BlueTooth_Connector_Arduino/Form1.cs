@@ -122,7 +122,6 @@ namespace BlueTooth_Connector_Arduino
                     default:
                         reason = null;
                         break;
-
                 }
 
                 lblError.Text = reason;
